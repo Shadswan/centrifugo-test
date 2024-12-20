@@ -1,0 +1,12 @@
+{
+  "token_hmac_secret_key": "e19ed542-f59e-46db-871a-1193a6c18a6b",
+  "admin_password": "fbb72cf6-8a3e-4a18-936c-b25ca8070f80",
+  "admin_secret": "12041a14-5fc0-45e0-9a4e-5d1583f66fb6",
+  "api_key": "bda013cd-12f7-4855-8497-7b21f8d6e1a6",
+  "publish": true,
+  "subscribe": true,
+  "allowed_origins": ["http://localhost:9098", "http://127.0.0.1:9098"],
+  "admin": "true",
+  "secret": "lalalala123",
+  "allow_subscribe_for_client": true
+}
